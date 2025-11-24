@@ -108,10 +108,3 @@ Use correct relative paths when referencing them.
 This project is for personal/portfolio use unless stated otherwise.
 
 ---
-
-If you want, I can add:
-
-* 📸 Demo screenshots
-* 🌐 Live preview link section
-* 🔰 GitHub profile badges
-  Just tell me!
